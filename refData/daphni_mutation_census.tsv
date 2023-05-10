@@ -1,0 +1,357 @@
+Hugo_Symbol	variant_type	protein_change	variant_effect	Rx Bucket
+FGFR3	somatic mutation	G370C	activating	FGFR Inhibitor
+FGFR3	somatic mutation	R248C	activating	FGFR Inhibitor
+FGFR3	somatic mutation	S249C	activating	FGFR Inhibitor
+FGFR3	somatic mutation	Y373C	activating	FGFR Inhibitor
+FGFR3	somatic mutation	I538V	activating	FGFR Inhibitor
+FGFR3	somatic mutation	G380R	activating	FGFR Inhibitor
+FGFR3	somatic mutation	D641N	activating	FGFR Inhibitor
+FGFR3	somatic mutation	D641G	activating	FGFR Inhibitor
+FGFR3	somatic mutation	G375C	activating	FGFR Inhibitor
+FGFR3	somatic mutation	K650E	activating	FGFR Inhibitor
+FGFR3	somatic mutation	R248C	activating	FGFR Inhibitor
+FGFR3	somatic mutation	N540K	activating	FGFR Inhibitor
+FGFR3	somatic mutation	S371C	activating	FGFR Inhibitor
+FGFR3	somatic mutation	A391E	activating	FGFR Inhibitor
+FGFR3	somatic mutation	N540S	activating	FGFR Inhibitor
+FGFR3	somatic mutation	S249C	activating	FGFR Inhibitor
+FGFR3	somatic mutation	R669G	activating	FGFR Inhibitor
+KRAS	somatic mutation	G12C	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	E62K	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	G12R	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	A18D	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	Q22K	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	G12S	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	F156L	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	Q61R	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	D153V	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	Y64A	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	K117N	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	G12A	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	S65N	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	P34R	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	D33E	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	A146V	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	Q61L	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	A146T	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	A11_G12insGA	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	G12V	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	P34L	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	T74P	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	Q22E	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	L19F	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	A59G	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	G12D	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	G13D	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	Q61H	activating	MEK + pan RTK Inhibitor Combination
+KRAS	somatic mutation	G13C	activating	MEK + pan RTK Inhibitor Combination
+NRAS	somatic mutation	Q61H	activating	MEK + pan RTK Inhibitor Combination
+NRAS	somatic mutation	G12D	activating	MEK + pan RTK Inhibitor Combination
+NRAS	somatic mutation	Q61R	activating	MEK + pan RTK Inhibitor Combination
+NRAS	somatic mutation	G12V	activating	MEK + pan RTK Inhibitor Combination
+NRAS	somatic mutation	G60E	activating	MEK + pan RTK Inhibitor Combination
+NRAS	somatic mutation	Q61K	activating	MEK + pan RTK Inhibitor Combination
+NRAS	somatic mutation	Q61L	activating	MEK + pan RTK Inhibitor Combination
+NRAS	somatic mutation	G12R	activating	MEK + pan RTK Inhibitor Combination
+NRAS	somatic mutation	G13D	activating	MEK + pan RTK Inhibitor Combination
+PI3KCA	somatic mutation	E545G	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	H450_P458del	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	P449T	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	R88Q	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	V344A	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	H1047L	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	N345I	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	Q546P	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	G106R	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	G118D	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	E545A	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	E110del	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	H1047R	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	Q546R	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	N345K	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	D350G	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	E542K	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	D549N	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	E453K	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	R38H	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	E545Q	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	G1049R	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	R93W	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	T1025S	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	E542V	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	Q546E	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	N1044K	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	E545K	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	G106V	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	Q546K	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	M1043V	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	H1047Y	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	P447_L455del	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	C420R	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	P449_L455del	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	P539R	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	P366R	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	M1043I	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	E365K	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	R108H	activating	PI3K Inhibitor
+PI3KCA	somatic mutation	K111E	activating	PI3K Inhibitor
+BRCA1	somatic mutation	C24R	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	I1766S	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	F1761S	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	G1738E	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	C61G	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	V1713A	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	C39Y	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	C44F	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	C44Y	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	W1837R	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	E23fs	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	T37R	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	R1699Q	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	R1699W	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	S1715R	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	Y1853*	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	G1706E	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	M1775R	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	H41R	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	M18T	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	S1655F	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	C1697R	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	A1752P	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	C47G	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	T1685I	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	A1708E	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	D1739G	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	G1770V	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	V1736A	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	Y1853C	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	W1718C	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	A1789T	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	C64G	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	G1738R	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	S1715N	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	D1739V	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	M1775K	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	L1764P	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	T1700A	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	L1780P	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	H1686Q	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	G1788V	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	R1753T	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	Q1756fs	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	C27A	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	S1722F	deactivating	PARP Inhibitor
+BRCA1	somatic mutation	P1749R	deactivating	PARP Inhibitor
+BRCA2	somatic mutation	R2336H	deactivating	PARP Inhibitor
+BRCA2	somatic mutation	F2562L	deactivating	PARP Inhibitor
+BRCA2	somatic mutation	E3002K	deactivating	PARP Inhibitor
+BRCA2	somatic mutation	L2647P	deactivating	PARP Inhibitor
+BRCA2	somatic mutation	R2659K	deactivating	PARP Inhibitor
+BRCA2	somatic mutation	N3124I	deactivating	PARP Inhibitor
+BRCA2	somatic mutation	R2784W	deactivating	PARP Inhibitor
+BRCA2	somatic mutation	D2723G	deactivating	PARP Inhibitor
+BRCA2	somatic mutation	D2723H	deactivating	PARP Inhibitor
+BRCA2	somatic mutation	I2627F	deactivating	PARP Inhibitor
+BRCA2	somatic mutation	D2723A	deactivating	PARP Inhibitor
+BRCA2	somatic mutation	G2748D	deactivating	PARP Inhibitor
+BRCA2	somatic mutation	L2653P	deactivating	PARP Inhibitor
+CDKN2A	somatic mutation	D84N	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	S56I	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	A60R	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	N71K	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	H83Y	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	N71I	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	M53I	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	D84Y	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	P73L	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	D74Y	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	G35A	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	R99P	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	D84G	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	G35V	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	E88K	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	T77P	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	L16P	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	R87P	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	D84H	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	D74N	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	P81T	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	G67S	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	R79P	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	G101W	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	R87L	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	Q50*	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	R112G	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	P114L	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	H83N	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	A68T	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	D84V	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	L32P	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	L97R	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	P48L	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	P114S	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	V118D	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	G23D	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	I49S	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	G67R	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	A36P	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	A60V	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	P81L	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	E69G	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	G93W	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	R87W	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	V126D	deactivating	CDK Inhibitor
+CDKN2A	somatic mutation	Q50P	deactivating	CDK Inhibitor
+PTEN	somatic mutation	T131I	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	R159G	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	L112R	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	D162H	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	H123Q	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	R173C	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	Y16C	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	G165E	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	K342N	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	G165V	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	V343E	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	L325F	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	C124R	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	R130*	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	R130Q	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	R130L	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	R173P	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	A39P	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	M199del	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	R161G	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	G127N	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	C124S	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	C124N	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	G44D	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	A126D	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	L181P	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	H93Y	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	S170N	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	K62R	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	Y174N	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	K125M	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	F21A	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	D162G	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	Y155C	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	H123D	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	A121P	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	I122L	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	G129D	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	L345Q	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	K128R	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	I168F	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	M35R	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	F341V	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	D326N	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	R130G	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	N276S	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	R335L	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	K125E	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	D92A	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	S170R	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	P96Q	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	S227F	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	Y65C	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	D92H	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	L112P	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	R335*	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	A126G	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	H118P	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	G129E	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	N94I	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	H61D	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	N48K	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	D252G	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	T160I	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	G165R	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	S10N	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	G127E	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	C136Y	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	E157G	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	K125L	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	T131A	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	P169H	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	D92E	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	A34D	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	H61R	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	P95L	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	R130K	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	P95S	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	C105F	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	D92V	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	Y27S	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	V217D	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	A126S	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	G36R	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	F154L	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	K128T	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	Y68H	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	F347L	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	D24Y	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	G20E	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	I122S	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	H93D	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	L23F	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	T131L	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	V133I	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	F241S	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	A126V	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	H123Y	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	Y68D	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	H93R	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	R130A	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	H93Q	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	C71Y	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	D107Y	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	T319del	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	M134L	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	D92G	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	A121E	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	T167A	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	R173H	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	L108P	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	G129R	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	G251C	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	K128N	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	K128Q	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	D92N	deactivating	PI3K Inhibitor
+PTEN	somatic mutation	C136R	deactivating	PI3K Inhibitor
+TSC1	somatic mutation	H206D	deactivating	MTOR Inhibitor
+TSC1	somatic mutation	F158C	deactivating	MTOR Inhibitor
+TSC1	somatic mutation	N198_F199delinsI	deactivating	MTOR Inhibitor
+TSC1	somatic mutation	V128del	deactivating	MTOR Inhibitor
+TSC1	somatic mutation	M224R	deactivating	MTOR Inhibitor
+TSC1	somatic mutation	L191H	deactivating	MTOR Inhibitor
+TSC1	somatic mutation	L180P	deactivating	MTOR Inhibitor
+TSC1	somatic mutation	L117P	deactivating	MTOR Inhibitor
+TSC1	somatic mutation	S35Q	deactivating	MTOR Inhibitor
+TSC1	somatic mutation	H105R	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	A889P	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	H1620R	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	S1653F	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	H597Y	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	L830R	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	R905Q	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	L410R	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	R905G	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	P1675L	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	E1552del	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	V705M	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	V705E	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	L792R	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	T1623I	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	C696Y	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	R905W	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	A614D	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	V241del	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	R611Q	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	V769E	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	T1203K	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	R1200W	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	S1653P	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	R611W	deactivating	MTOR Inhibitor
+TSC2	somatic mutation	Y1571N	deactivating	MTOR Inhibitor
+BRAF	somatic mutation	V600E	activating	MEK + BRAF + pan-RTK Inhibitor Combination

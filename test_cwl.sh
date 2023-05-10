@@ -1,0 +1,21 @@
+SAMPLEID="MM_0354_BM_10"
+cwltool predEngine.cwl \
+--outdir data/${SAMPLEID}/ \
+--sampleID ${SAMPLEID} \
+--daphniDrugTable 'refData/daphniDrugTableSourcesAnnotated.tsv' \
+--daphniMutationCensus 'refData/daphni_mutation_census.tsv' \
+--daphniBiomarkerTable 'refData/daphni_tier1_biomarkers.tsv' \
+--selineScoresFile "data/${SAMPLEID}/selinescores_latest.tsv" \
+--zScoreTable 'data/merge_results/zscores_latest.csv' \
+--scarFile "data/merge_results/scarScore_latest.tsv" \
+--mmHallMarks "data/${SAMPLEID}/mm_hallmarks_results.csv" \
+--mmPSNFile "data/$SAMPLEID/Predicted_class.csv" \
+--treeFile "data/${SAMPLEID}/sample.summ.json.gz" \
+--somMutFile "data/${SAMPLEID}/annotated_variants.consensus.vcf" \
+--somMutCIVIC "data/${SAMPLEID}/civic_mutation_clone_data.txt" \
+--somMutFileVICC "data/${SAMPLEID}/vicc_mutation_clone_data.txt" \
+--cnaFile "data/${SAMPLEID}/output_CNV_file.txt" \
+--cnaFileCIVIC "data/${SAMPLEID}/civic_cnv_clone_data.txt" \
+--cnaFileVICC "data/${SAMPLEID}/vicc_cnv_clone_data.txt" \
+--geneExprFileVICC "data/${SAMPLEID}/vicc_expression_data.csv" \
+--geneExprFileCIVIC "data/${SAMPLEID}/civic_expression_data.csv" \

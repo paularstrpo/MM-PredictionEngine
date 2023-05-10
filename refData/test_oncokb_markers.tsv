@@ -1,0 +1,107 @@
+Gene	Alterations	Drugs
+ABL1	BCR-ABL1 Fusion	Dasatinib
+ABL1	BCR-ABL1 Fusion	Imatinib
+ABL1	BCR-ABL1 Fusion	Ponatinib
+ABL1	BCR-ABL1 Fusion	Bosutinib
+ABL1	BCR-ABL1 Fusion	Nilotinib
+ABL1	T315I	Ponatinib
+ALK	Fusions	Crizotinib
+ALK	Fusions	Alectinib
+ALK	Fusions	Ceritinib
+ALK	Oncogenic Mutations	Brigatinib
+ALK	Oncogenic Mutations	Lorlatinib
+ATM	Oncogenic Mutations	Olaparib
+BARD1	Oncogenic Mutations	Olaparib
+BRAF	V600	Vemurafenib
+BRAF	V600E	Dabrafenib
+BRAF	V600E	Vemurafenib
+BRAF	V600E, V600K	Trametinib
+BRCA1	Oncogenic Mutations	Niraparib
+BRCA1	Oncogenic Mutations	Olaparib
+BRCA1	Oncogenic Mutations	Rucaparib
+BRCA2	Oncogenic Mutations	Niraparib
+BRCA2	Oncogenic Mutations	Olaparib
+BRCA2	Oncogenic Mutations	Rucaparib
+BRIP1	Oncogenic Mutations	Olaparib
+CDK12	Oncogenic Mutations	Olaparib
+CHEK1	Oncogenic Mutations	Olaparib
+CHEK2	Oncogenic Mutations	Olaparib
+EGFR	Exon 19 deletion, L858R	Afatinib
+EGFR	Exon 19 deletion, L858R	Dacomitinib
+EGFR	Exon 19 deletion, L858R	Erlotinib
+EGFR	Exon 19 deletion, L858R	Gefitinib
+EGFR	Exon 19 deletion, L858R	Osimertinib
+EGFR	G719	Afatinib
+EGFR	L861Q	Afatinib
+EGFR	S768I	Afatinib
+EGFR	T790M	Osimertinib
+ERBB2	Amplification	Ado-Trastuzumab Emtansine
+ERBB2	Amplification	Trastuzumab Deruxtecan
+ERBB2	Amplification	Trastuzumab
+EZH2	A682G, A692V, Y646C, Y646F, Y646H, Y646N, Y646S	Tazemetostat
+FANCL	Oncogenic Mutations	Olaparib
+FGFR2	Fusions	Erdafitinib
+FGFR2	Fusions	Pemigatinib
+FGFR3	Fusions	Erdafitinib
+FGFR3	G370C, R248C, S249C, Y373C	Erdafitinib
+FLT3	D835, I836, Internal tandem duplication	Gilteritinib
+IDH1	Oncogenic Mutations	Ivosidenib
+IDH2	Oncogenic Mutations	Enasidenib
+KIT	A502_Y503dup, K509I, N505I, S476I, S501_A502dup	Imatinib
+KIT	A502_Y503dup, K509I, N505I, S476I, S501_A502dup	Regorafenib
+KIT	A502_Y503dup, K509I, N505I, S476I, S501_A502dup	Ripretinib
+KIT	A502_Y503dup, K509I, N505I, S476I, S501_A502dup	Sunitinib
+KIT	A829P, C809G, D816, D820, N822, Y823D	Imatinib
+KIT	A829P, C809G, D816, D820, N822, Y823D	Regorafenib
+KIT	A829P, C809G, D816, D820, N822, Y823D	Ripretinib
+KIT	A829P, C809G, D816, D820, N822, Y823D	Sunitinib
+KIT	D572A, D572_P573dup, D579_H580insFNPTQLPYD, D579_H580insLPCD, D579del, E554_I571del, E554_K558del, E554_V559del, Exon 11 deletion, I563_L576del, K550_K558del, K550_V555delinsI, K550_W557del, K558N, K558_E562del, K558_V559del, K558_V560del, K558delinsNP, L576P, L576del, M552_K558del, M552_W557del, N564_Y578del, P551_E554del, P551_M552del, P551_V555del, P551_W557delinsL, P573Q, P573_D579del, P577_D579del, P577_R588dup, P577_W582delinsPYD, Q556_K558del, Q575_L576dup, Q575_P585dup, T574_R588delinsL, T574insTQLPYD, V555_L576del, V555_V559del, V559A, V559C, V559D, V559F, V559G, V559I, V559_G565del, V559_V560del, V559del, V560D, V560E, V560G, V560del, V569_L576del, W557C, W557G, W557R, W557_K558del, W557_V559delinsC, W557_V560del, Y553_K558del, Y553_Q556del, Y568_L576delinsVN, Y578C, Y578_D579dup, Y578_D579insEQQLPY	Imatinib
+KIT	D572A, D572_P573dup, D579_H580insFNPTQLPYD, D579_H580insLPCD, D579del, E554_I571del, E554_K558del, E554_V559del, Exon 11 deletion, I563_L576del, K550_K558del, K550_V555delinsI, K550_W557del, K558N, K558_E562del, K558_V559del, K558_V560del, K558delinsNP, L576P, L576del, M552_K558del, M552_W557del, N564_Y578del, P551_E554del, P551_M552del, P551_V555del, P551_W557delinsL, P573Q, P573_D579del, P577_D579del, P577_R588dup, P577_W582delinsPYD, Q556_K558del, Q575_L576dup, Q575_P585dup, T574_R588delinsL, T574insTQLPYD, V555_L576del, V555_V559del, V559A, V559C, V559D, V559F, V559G, V559I, V559_G565del, V559_V560del, V559del, V560D, V560E, V560G, V560del, V569_L576del, W557C, W557G, W557R, W557_K558del, W557_V559delinsC, W557_V560del, Y553_K558del, Y553_Q556del, Y568_L576delinsVN, Y578C, Y578_D579dup, Y578_D579insEQQLPY	Regorafenib
+KIT	D572A, D572_P573dup, D579_H580insFNPTQLPYD, D579_H580insLPCD, D579del, E554_I571del, E554_K558del, E554_V559del, Exon 11 deletion, I563_L576del, K550_K558del, K550_V555delinsI, K550_W557del, K558N, K558_E562del, K558_V559del, K558_V560del, K558delinsNP, L576P, L576del, M552_K558del, M552_W557del, N564_Y578del, P551_E554del, P551_M552del, P551_V555del, P551_W557delinsL, P573Q, P573_D579del, P577_D579del, P577_R588dup, P577_W582delinsPYD, Q556_K558del, Q575_L576dup, Q575_P585dup, T574_R588delinsL, T574insTQLPYD, V555_L576del, V555_V559del, V559A, V559C, V559D, V559F, V559G, V559I, V559_G565del, V559_V560del, V559del, V560D, V560E, V560G, V560del, V569_L576del, W557C, W557G, W557R, W557_K558del, W557_V559delinsC, W557_V560del, Y553_K558del, Y553_Q556del, Y568_L576delinsVN, Y578C, Y578_D579dup, Y578_D579insEQQLPY	Ripretinib
+KIT	D572A, D572_P573dup, D579_H580insFNPTQLPYD, D579_H580insLPCD, D579del, E554_I571del, E554_K558del, E554_V559del, Exon 11 deletion, I563_L576del, K550_K558del, K550_V555delinsI, K550_W557del, K558N, K558_E562del, K558_V559del, K558_V560del, K558delinsNP, L576P, L576del, M552_K558del, M552_W557del, N564_Y578del, P551_E554del, P551_M552del, P551_V555del, P551_W557delinsL, P573Q, P573_D579del, P577_D579del, P577_R588dup, P577_W582delinsPYD, Q556_K558del, Q575_L576dup, Q575_P585dup, T574_R588delinsL, T574insTQLPYD, V555_L576del, V555_V559del, V559A, V559C, V559D, V559F, V559G, V559I, V559_G565del, V559_V560del, V559del, V560D, V560E, V560G, V560del, V569_L576del, W557C, W557G, W557R, W557_K558del, W557_V559delinsC, W557_V560del, Y553_K558del, Y553_Q556del, Y568_L576delinsVN, Y578C, Y578_D579dup, Y578_D579insEQQLPY	Sunitinib
+KIT	K642E	Imatinib
+KIT	K642E	Regorafenib
+KIT	K642E	Ripretinib
+KIT	K642E	Sunitinib
+KIT	T670I	Imatinib
+KIT	T670I	Regorafenib
+KIT	T670I	Ripretinib
+KIT	T670I	Sunitinib
+KIT	V654A	Imatinib
+KIT	V654A	Regorafenib
+KIT	V654A	Ripretinib
+KIT	V654A	Sunitinib
+KRAS	Wildtype	Cetuximab
+KRAS	Wildtype	Panitumumab
+KRAS	Wildtype	Regorafenib
+MET	D1010, Exon 14 deletion, Exon 14 splice mutation, Y1003	Capmatinib
+NF1	Oncogenic Mutations	Selumetinib
+NRAS	Wildtype	Panitumumab
+NTRK1	Fusions	Entrectinib
+NTRK1	Fusions	Larotrectinib
+NTRK2	Fusions	Entrectinib
+NTRK2	Fusions	Larotrectinib
+NTRK3	Fusions	Entrectinib
+NTRK3	Fusions	Larotrectinib
+Other Biomarkers	Microsatellite Instability-High	Pembrolizumab
+Other Biomarkers	Microsatellite Instability-High	Nivolumab
+Other Biomarkers	Tumor Mutational Burden-High	Pembrolizumab
+PALB2	Oncogenic Mutations	Olaparib
+PDGFB	COL1A1-PDGFB Fusion	Imatinib
+PDGFRA	D842V, D842Y, D842_H845del, D842_H845insV	Avapritinib
+PDGFRA	FIP1L1-PDGFRA Fusion	Imatinib
+PDGFRA	Fusions	Imatinib
+PDGFRB	Fusions	Imatinib
+RAD51B	Oncogenic Mutations	Olaparib
+RAD51C	Oncogenic Mutations	Olaparib
+RAD51D	Oncogenic Mutations	Olaparib
+RAD54L	Oncogenic Mutations	Olaparib
+RET	Fusions	Pralsetinib
+RET	Fusions	Selpercatinib
+RET	Oncogenic Mutations	Pralsetinib
+RET	Oncogenic Mutations	Selpercatinib
+ROS1	Fusions	Crizotinib
+ROS1	Fusions	Entrectinib
+SMARCB1	Deletion	Tazemetostat
+TSC1	Oncogenic Mutations	Everolimus
+TSC2	Oncogenic Mutations	Everolimus
